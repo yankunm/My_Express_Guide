@@ -7,4 +7,4 @@
 * *library* - code other people wrote that you can use in your application, where you have control over how to use them
 * *framework* - also code that other people wrote, but there is **inversion of control**, where you don't have control over how to use the code but rather, you have to *follow the rules* of the framework
 
-Note: you are trading freedom for speed and efficiency when you use a framework.
+Note: when you use a framework, you are trading *freedom and control* for *speed and efficiency*
